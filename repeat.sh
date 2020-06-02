@@ -1,0 +1,1 @@
+for i in {1..50}; do ./run.sh 2; done
