@@ -3,7 +3,7 @@
 Enter in terminal before anything
 
 ```
-export PMIX_MCA_gds=hash`
+export PMIX_MCA_gds=hash
 ```
 
 Make executable if necessary
